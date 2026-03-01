@@ -9,21 +9,21 @@ To support this transition, the system needed to meet several key requirements:
 
 **What did you do particularly well in developing this documentation?**
 
-I did a good job explaining the system’s design and using patterns like Singleton and Iterator to show how the game could stay consistent while handling multiple players and teams. I also researched different operating systems to make sure my recommendations matched what the client needed. Defining the requirements early helped keep everything organized, and using a clear template made the documentation easy to read and understand.
+I think one thing I did well in developing this documentation was giving full answers to the questions. I tried to be thorough in my research, look up different operating systems, different needs and ensure I understand how each would work before making my recommendations. Defining the requirements early helped keep everything organized, and using a clear template made the documentation easy to read and helped me to match my client's needs.
 
 **What about the process of working through a design document did you find helpful when developing the code?**
 
-The design document worked like a blueprint that cleared up confusion during development. It helped me define how the system should work, how data should move, and how different parts should interact, making it much easier to start writing code that matched what the client needed.
+The design document worked like a blueprint that cleared up confusion during development. It helped me define how the system should work, how data should move, and how different parts should interact, making it much easier to start writing code that matched what the client needed. It helped me to stay on track and keep the cient's requirements in mind during the coding.
 
 **If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?**
 
-
+Being this is my first time during this document and that I have nothing else to compare it to, I am satified with what I was able to complete.  If I was to add anything, I would like to be able to research more on additional topics that may have worked with this cient scenerio.  With additional info, I may have been able to add more specifics to my recommendations.  
 
 **How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?**
 
-I understood what users needed by reviewing the project details and user stories, then building features like user roles, secure sessions, and support for multiple teams. I also made sure the game worked the same on any device, with progress carried over, by keeping most of the important logic on the server instead of on each device. Focusing on real life user situations, like slow internet or different screen sizes, helped ensure the final product was easy to use, reliable, and met their expectations. Taking the user's needs into account guarantees that the software is user-friendly, effective, and aligns with client expectations.
+I figured out what users needed by reviewing the project details, then building in things like user roles, secure sessions, and support for multiple teams. I also made sure the game worked smoothly on any device by keeping most of the important logic on the server, so progress and gameplay stayed consistent. Thinking about real world situations, like slow internet or different screen sizes, helped make the software easy to use and more reliable. In the end, keeping the user’s needs front and center is what makes the product enjoyable and something people want to come back to.
 
 **How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?**
 
-I approached the design by breaking the project into smaller parts, identifying the main classes, and mapping out how they connected. I used UML diagrams to show how everything would interact and applied design patterns to make the system easier to scale and reuse. In the future, I’d get more feedback from others earlier on and run simple usability tests to make sure the design actually fits what users expect before jumping into coding.
+I started by reviewing the requirements and doing the research needed to understand the project. The design document guided me and helped break everything into smaller, manageable pieces. In the future, I’d use the same approach since it keeps everything clear and easy to follow, but i would add more time management details to each step to ensure I stay on track.  
 
